@@ -9,6 +9,7 @@ I take pride in fostering collaboration, mentoring team members, and continuousl
 <p align="left">
 <a href="https://twitter.com/chorn_penghong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chorn_penghong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chorn-penghong-a75237220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chorn-penghong-a75237220" height="30" width="40" /></a>
+<a href="https://discord.gg/penghongchorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="penghongchorn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
