@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Penghong</h1>
+<h1>Hi, I'm Penghong</h1>
 <p>I am a dedicated software developer with over four years of experience in designing and building robust web applications and RESTful APIs, primarily using Python with Django Rest Framework (DRF) and PHP with Laravel. I’m driven by the opportunity to create impactful solutions and thrive in leading teams through complex technical challenges, transforming them into intuitive and user-centric applications. I take pride in fostering collaboration, mentoring team members, and continuously learning to stay aligned with emerging technologies and best practices. For me, development goes beyond writing code—it's about delivering meaningful results and creating lasting value.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
