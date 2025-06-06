@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Penghong</h1>
-<h3 align="center">I'm a passionate developer focused on building clean, efficient, and scalable applications.</h3>
+<h3 align="center"><h3>I'm a passionate developer focused on building clean, efficient, and scalable applications.</h3>
+I am a dedicated software developer with over four years of experience in designing and building robust web applications and RESTful APIs, primarily using Python with Django Rest Framework (DRF) and PHP with Laravel. I’m driven by the opportunity to create impactful solutions and thrive in leading teams through complex technical challenges, transforming them into intuitive and user-centric applications.
+I take pride in fostering collaboration, mentoring team members, and continuously learning to stay aligned with emerging technologies and best practices. For me, development goes beyond writing code—it's about delivering meaningful results and creating lasting value.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chornpenghong&label=Profile%20views&color=0e75b6&style=flat" alt="chornpenghong" /> </p>
 
